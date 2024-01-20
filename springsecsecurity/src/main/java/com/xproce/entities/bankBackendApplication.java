@@ -1,4 +1,4 @@
-package com.xproce;
+package com.xproce.entities;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
